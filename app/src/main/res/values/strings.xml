@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppPractico1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblTitulo">Practico Numero 1</string>
+    <string name="txtFrameLayout">Frame Layout</string>
+    <string name="txtRelativeLayout">Relative Layout</string>
+    <string name="txtTableLayout">Table Layout</string>
+    <string name="title_activity_frame">Frame Activity</string>
+    <string name="title_activity_relative">Relative Activity</string>
+    <string name="lblRLTextoFondo">Esto es un texto de fondo</string>
+    <string name="title_activity_table">Table Activity</string>
+</resources>
